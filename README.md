@@ -7,4 +7,5 @@ Usage:
 
 Available packages:
 * [alacritty](https://alacritty.org)
+* [tmux](https://github.com/tmux/tmux/wiki)
 
