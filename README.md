@@ -7,5 +7,7 @@ Usage:
 
 Available packages:
 * [alacritty](https://alacritty.org)
+* [lazygit](https://github.com/jesseduffield/lazygit)
 * [tmux](https://github.com/tmux/tmux/wiki)
+* [zellij](https://zellij.dev)
 
